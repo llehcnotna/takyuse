@@ -1,0 +1,26 @@
+{
+  "name": "takyuse",
+  "version": "1.0.0",
+  "description": "bot for new discord server.",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Default",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^11.6.2",
+    "fs": "0.0.1-security",
+    "google": "^2.1.0",
+    "google-translate-api": "^2.3.0",
+    "mathjs": "^6.6.2",
+    "moment": "^2.24.0",
+    "moment-duration-format": "^2.3.2",
+    "node-superfetch": "^0.1.10",
+    "nodemon": "^2.0.2",
+    "quick.db": "^7.0.0-b22",
+    "snekfetch": "^4.0.4",
+    "superagent": "^5.2.2",
+    "urban": "^0.3.2"
+  }
+}
